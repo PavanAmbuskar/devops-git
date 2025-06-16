@@ -1,1 +1,1 @@
-#git notes for student
+git Notes
